@@ -5,9 +5,3 @@ const president = {
 };
 const fullName = { ...president, ...(hasMiddle ? { middle: 'changer', temp: 'temp' } : {}) };
 console.log(fullName);
-
-const wedding = true;
-const house = 'incheon';
-const man = 'kimsijun';
-const woman = 'kimsodam';
-const cat = 'kimjipyeong';
