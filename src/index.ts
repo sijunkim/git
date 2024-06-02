@@ -7,3 +7,4 @@ const fullName = { ...president, ...(hasMiddle ? { middle: 'changer', temp: 'tem
 console.log(fullName);
 
 const wedding = true;
+const house = 'incheon';
