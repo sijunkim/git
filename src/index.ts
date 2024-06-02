@@ -9,3 +9,4 @@ console.log(fullName);
 const wedding = true;
 const house = 'incheon';
 const man = 'kimsijun';
+const woman = 'kimsodam';
